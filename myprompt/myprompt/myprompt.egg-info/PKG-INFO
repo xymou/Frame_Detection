@@ -1,0 +1,21 @@
+Metadata-Version: 1.2
+Name: myprompt
+Version: 1.0
+Summary: openprompt framework for my projects
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: Apache
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: PLM,prompt
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Intended Audience :: Researchers
+Classifier: Intended Audience :: Students
+Classifier: Intended Audience :: Developers
+Requires-Python: >=3.6.0
