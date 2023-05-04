@@ -13,6 +13,9 @@ we get datasets available mainly from three resources: (1) news media (articles)
 We use mfc for pre-training, and use the others for downstream generalization.
 
 ## Pre-training
-
+see pre-train directory.
 
 ## Generalization
+Initialize the components with pre-trained parameters and tune on downstream tasks.  
+see gene directory.  
+Our pre-trained model can be download through [link](https://drive.google.com/file/d/1zDxZfSoKRkikKWZi_j_Vf7dMaPvVQNec/view?usp=sharing)
